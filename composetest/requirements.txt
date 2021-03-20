@@ -1,0 +1,3 @@
+#ใช้ติดตั้ง software python
+flask
+redis
